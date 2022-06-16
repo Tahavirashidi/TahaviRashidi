@@ -4,7 +4,16 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Engineer;Exploits+Developer;Security+Engineer;&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h5 align="center">Yes, I am a criminal. My crime is that of curiosity. My crime is that of outsmarting you, something that you will never forgive me for. I am a hacker, and this is my manifesto. You may stop this individual, but you can’t stop us all… after all, we’re all alike. 
+<h5 align="center">This cyberwar will be a continuous marathon war that will only compound and hyper-evolve in stealth, sophistication and easy entry due to the accelerated evolution of “as a service” attack strategies for sale on the dark web.
+
+We are simply an evolution, but are we the last?
+
+We must be thankful for what we are and have, aggression will get you nowhere in life.
+Think twice, You might be next!!!
+
+----- WELCOME TO DARK WORLD -------
+
+
 </h5>
 <br/>
 <h4 align="center">

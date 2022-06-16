@@ -51,7 +51,8 @@ If you're still reading me, why don't we connect?</h4>
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
-<div style="text-align:center;"><img align="center" height="100%" width="100%" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"  /></div>
+<div style="text-align:center;"><img align="center" height="100%" width="100%" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/></div>
+<div  style="text-align:center;"><img align="center" height="10%" width="80%" alt="GIF" src=https://steemitimages.com/p/EfcLDDAkyqgqyc52aRa7cPmA4rTL4QyX3V9DNP33S2HdjZrTz2Su5axhZ6BJQvNGHDiUncJcYUZ3kGUSnjQrpKiPxc92d?format=match&mode=fit /></div>
 
 ## ⚡ GitHub Activity Graph:
   <br/>

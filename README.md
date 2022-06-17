@@ -12,7 +12,7 @@ Think twice, You might be next!!!
 
 ----- WELCOME TO DARK WORLD -------
 	
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&color=D10303&lines=IB-3+deployed+PEGSUS.spy+.+.+.+.;I+See+You+But+Don't+Worry;Everything+is+UnderControl;We+Know+EveryThing;Their+Is+No+Place+To+Hide;KEEP+SMILING%E2%9D%A4%EF%B8%8F+Respect+Your+Elders)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=19&color=D10303&lines=IB-3+deployed+PEGSUS.spy+.+.+.+.;I+See+You+But+Don't+Worry;Everything+is+UnderControl;We+Know+EveryThing;Their+Is+No+Place+To+Hide;KEEP+SMILING%E2%9D%A4%EF%B8%8F+Respect+Your+Elders)
 
 </h5>
 <br/>
@@ -24,7 +24,7 @@ If you're still reading me, why don't we connect?</h4>
   <img align="left" alt="Tahavi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/tahavirashidi/">
-  <img align="right" alt="Awai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="right" alt="Tahavi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 	</div>
 <br>

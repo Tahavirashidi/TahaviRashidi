@@ -1,6 +1,6 @@
 [![MasterHead](https://gagadget.com/media/post_big/Anonymous_FSB.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi , I'm Tahavi Rashidi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Security+Engineer;NFT+METAVERSE+WEB3.0+║+SOLIDITY+║+BLOCKCHAIN;RESEARCHER;WORLD+GOVERNANCE;ForensicExpert+║+SmartChainNetwork;UI/UX+Designer&center=true&width=500&height=50"></a>
+<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Security+Engineer;NFT+METAVERSE+WEB3.0║+SOLIDITY+║+BLOCKCHAIN;RESEARCHER;WORLD+GOVERNANCE;ForensicExpert+║+SmartChainNetwork;UI/UX+Designer&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h5 align="center">This cyberwar will be a continuous marathon war that will only compound and hyper-evolve in stealth, sophistication and easy entry due to the accelerated evolution of “as a service” attack strategies for sale on the dark web.
@@ -12,7 +12,7 @@ Think twice, You might be next!!!
 
 ----- WELCOME TO DARK WORLD -------
 	
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&color=D10303&lines=I+See+You+But+Don't+Worry+Everything+is+UnderControl;We+Know+EveryOne;Their+Is+No+Place+To+Hide;KEEP+SMILING%E2%9D%A4%EF%B8%8F)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&color=D10303&lines=IB-3+deployed+PEGSUS.spy+.+.+.+.;I+See+You+But+Don't+Worry;Everything+is+UnderControl;We+Know+EveryThing;Their+Is+No+Place+To+Hide;KEEP+SMILING%E2%9D%A4%EF%B8%8F+Respect+Your+Elders)
 
 </h5>
 <br/>

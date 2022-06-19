@@ -2,7 +2,8 @@
 <h1 align="center">Hi , I'm Tahavi Rashidi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Security+Engineer;NFT+METAVERSE+WEB3.0║+SOLIDITY+║+BLOCKCHAIN;RESEARCHER;WORLD+GOVERNANCE;ForensicExpert+║+SmartChainNetwork;UI/UX+Designer&center=true&width=500&height=50"></a>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="TahaviRashidi" /> </p>
+<!-- <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=TahaviRashidi"></p> -->
 <p align="center">
   <a href="https://stars.github.com/profiles/tahavirashidi">
     <img src="https://img.shields.io/badge/GitHub%20Star-%E2%98%85-yellow">
@@ -34,23 +35,15 @@ Think twice, You might be next!!!
   </a>
 </p>
 
-</h5>
-<br/>
-<h4 align="center">
-If you're still reading me, why don't we connect?</h4>
-
-<div style="text-align:center;">
+<p align="center">
 <a href="https://www.instagram.com/tahavi_rashidi/">
-  <img align="left" alt="Tahavi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img alt="Tahavi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/tahavirashidi/">
-  <img align="right" alt="Tahavi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Tahavi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 	</div>
 <br>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="TahaviRashidi" /> </p>
-<!-- <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=TahaviRashidi"></p> -->
 
 
 <h3 align="left">Languages and Tools:</h3>

@@ -1,8 +1,24 @@
 [![MasterHead](https://gagadget.com/media/post_big/Anonymous_FSB.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi , I'm Tahavi Rashidi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Security+Engineer;NFT+METAVERSE+WEB3.0║+SOLIDITY+║+BLOCKCHAIN;RESEARCHER;WORLD+GOVERNANCE;ForensicExpert+║+SmartChainNetwork;UI/UX+Designer&center=true&width=500&height=50"></a>
+
+
+<p align="center">
+  <a href="https://stars.github.com/profiles/tahavirashidi">
+    <img src="https://img.shields.io/badge/GitHub%20Star-%E2%98%85-yellow">
+  </a>
+  <a href="https://github.com/tahavirashidi">
+    <img src="https://img.shields.io/badge/Node.js%20&%20JavaScript-Security-green">
+  </a>
+  <a href="https://snyk.io/">
+    <img src="https://img.shields.io/badge/Developer%20Advocate-Snyk-blueviolet">
+  </a>
+  <a href="https://github.com/tahavirashidi">
+    <img src="https://img.shields.io/badge/Public%20Speaker-%F0%9F%94%8A-blue">
+  </a>
 </p>
-<hr/>
+
+
 <h5 align="center">This cyberwar will be a continuous marathon war that will only compound and hyper-evolve in stealth, sophistication and easy entry due to the accelerated evolution of “as a service” attack strategies for sale on the dark web.
 
 We are simply an evolution, but are we the last?
@@ -10,9 +26,13 @@ We are simply an evolution, but are we the last?
 We must be thankful for what we are and have, aggression will get you nowhere in life.
 Think twice, You might be next!!!
 
------ WELCOME TO DARK WORLD -------
-	
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cinzel&size=19&color=D10303&lines=IB-3+deployed+PEGSUS.spy+.+.+.+.;I+See+You+But+Don't+Worry;Everything+is+UnderControl;We+Know+EveryThing;Their+Is+No+Place+To+Hide;KEEP+SMILING%E2%9D%A4%EF%B8%8F+Respect+Your+Elders)
+----- WELCOME TO DARK WORLD -----
+
+<p align="center">
+  <a href="https://twitter.com/tahavi_rashidi/">
+    <img alt="Twitter" src="https://img.shields.io/badge/-Let's%20be%20friends%20on%20Twitter-1da1f2?style=social&logo=twitter" />
+  </a>
+</p>
 
 </h5>
 <br/>

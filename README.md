@@ -1,5 +1,5 @@
 [![MasterHead](https://gagadget.com/media/post_big/Anonymous_FSB.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi , I'm Tahavi Rashidi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Tahavi R. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Security+Engineer;NFT+METAVERSE+WEB3.0║+SOLIDITY+║+BLOCKCHAIN;RESEARCHER;WORLD+GOVERNANCE;ForensicExpert+║+SmartChainNetwork;UI/UX+Designer&center=true&width=500&height=50"></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="TahaviRashidi" /> </p>
